@@ -2,7 +2,11 @@
 
 ## QA Engineer с почти 5 летним стажем
 
-### Языки и Инструменты
+### My CV/ Мое резюме
+[![cv](https://user-images.githubusercontent.com/125453017/219130728-e8c568e3-e07f-472c-ae4c-5b5793ea3d19.png)](https://volgograd.hh.ru/resume/c3ef944aff0bb6faf30039ed1f6c4e39766958)
+![cv2](https://user-images.githubusercontent.com/125453017/219132793-e92816ff-55a3-4bc2-ada6-c4cbc5725929.png)
+
+### Language and Tools
 ![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=ff6800)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909??style=for-the-badge&logo=Swagger&logoColor=green)
@@ -19,10 +23,13 @@
 ![ETC](https://img.shields.io/badge/-ETC-090909??style=for-the-badge&logo=etc&logoColor=ff00cc)
 
 
-
-### Мои контакты
+## Links
 [![Telegram](https://img.shields.io/badge/-Telegram-090909??style=for-the-badge&logo=Telegram&logoColor=42AAFF)](https://vk.com/untegro.noel)
 [![VKontakte](https://img.shields.io/badge/-VKontakte-090909??style=for-the-badge&logo=VK&logoColor=42AAFF)](https://t.me/Untegro)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Untegro&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
