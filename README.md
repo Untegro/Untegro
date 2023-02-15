@@ -2,16 +2,15 @@
 
 ## QA Engineer с почти 5 летним стажем
 
-
-### HardSkill's
+### Language and Tools
 ![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=orange)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909??style=for-the-badge&logo=Swagger&logoColor=green)
 ![Figma](https://img.shields.io/badge/-Figma-090909??style=for-the-badge&logo=Figma&logoColor=purple)
 ![Devtools](https://img.shields.io/badge/-Devtools-090909??style=for-the-badge&logo=googlechrome&logoColor=yellow)
-![Testit](https://img.shields.io/badge/-Testit-090909??style=for-the-badge&logo=bug&logoColor=136be1)
-
-
-
+![GIT](https://img.shields.io/badge/-GitHub-090909??style=for-the-badge&logo=github&logoColor=white)
+![TestIT](https://img.shields.io/badge/-Testit-090909??style=for-the-badge&logo=data:image/jpeg;base64,/)
 
 Follow Me
+
+
