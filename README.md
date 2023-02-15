@@ -4,6 +4,6 @@
 
 
 ### HardSkill's
-[![SQL] (https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=appveyor=flutter&logoColor=47C5FB)]
+![Flutter] (https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=appveyor)
 
 Follow Me
