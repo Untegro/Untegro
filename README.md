@@ -4,7 +4,6 @@
 
 ### My CV/ Мое резюме
 [![cv](https://user-images.githubusercontent.com/125453017/219130728-e8c568e3-e07f-472c-ae4c-5b5793ea3d19.png)](https://volgograd.hh.ru/resume/c3ef944aff0bb6faf30039ed1f6c4e39766958)
-![cv2](https://user-images.githubusercontent.com/125453017/219132793-e92816ff-55a3-4bc2-ada6-c4cbc5725929.png)
 
 ### Language and Tools
 ![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
