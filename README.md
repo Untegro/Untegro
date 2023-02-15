@@ -4,6 +4,6 @@
 
 
 ### HardSkill's
-![SQL](https://img.shields.io/badge/-SQL-<090909>??style=for-the-badge&logo=appveyor)
+![SQL](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=sql&Color=47C5FB)
 
 Follow Me
