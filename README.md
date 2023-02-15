@@ -4,6 +4,11 @@
 
 
 ### HardSkill's
-![SQL](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=sql&Color=47C5FB)
+![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&Color=1560BD)
+![SQL](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=mysql&Color=00648B)
+![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&Color=00648B)
+![SQL](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=mysql&Color=00648B)
+![SQL](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=mysql&Color=00648B)
+![SQL](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=mysql&Color=00648B)
 
 Follow Me
