@@ -1,14 +1,15 @@
-[![Header](https://user-images.githubusercontent.com/125453017/219000321-ce31e01d-2e1d-4397-bd9a-c59d9a101aa6.jpg)](https://t.me/Untegro)
+[![Header](https://user-images.githubusercontent.com/125453017/219014392-6fe33eed-c6de-4d0b-a67b-7f8e7ec1afc4.png)](https://t.me/Untegro)
 
 ## QA Engineer с почти 5 летним стажем
 
 
 ### HardSkill's
-![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&Color=136be1)
-![SQL](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=mysql&Color=00648B)
-![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&Color=00648B)
-![SQL](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=mysql&Color=00648B)
-![SQL](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=mysql&Color=00648B)
-![SQL](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=mysql&Color=00648B)
+![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
+![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=orange)
+![Swagger](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=Swagger&logoColor=green)
+![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=00648B)
+![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=00648B)
+![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=00648B)
+![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=00648B)
 
 Follow Me
