@@ -6,10 +6,17 @@
 ### HardSkill's
 ![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=orange)
-![Swagger](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=Swagger&logoColor=green)
-![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=00648B)
-![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=00648B)
-![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=00648B)
-![Postman](https://img.shields.io/badge/-Postman-090909??style=for-the-badge&logo=postman&logoColor=00648B)
+![Swagger](https://img.shields.io/badge/-Swagger-090909??style=for-the-badge&logo=Swagger&logoColor=green)
+![Figma](https://img.shields.io/badge/-Figma-090909??style=for-the-badge&logo=Figma&logoColor=purple)
+![Devtools](https://img.shields.io/badge/-Devtools-090909??style=for-the-badge&logo=googlechrome&logoColor=yellow)
+![Testit](https://img.shields.io/badge/-Testit-090909??style=for-the-badge&logo=bug&logoColor=136be1)
+![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
+![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
+![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
+![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
+![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
+![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
+
+
 
 Follow Me
