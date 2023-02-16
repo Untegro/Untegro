@@ -1,6 +1,7 @@
 [![Header](https://user-images.githubusercontent.com/125453017/219014392-6fe33eed-c6de-4d0b-a67b-7f8e7ec1afc4.png)](https://t.me/Untegro)
 
 ## QA Engineer с почти 5 летним стажем
+Кратко о себе
 
 ### My CV/ Мое резюме
 [![cv](https://user-images.githubusercontent.com/125453017/219130728-e8c568e3-e07f-472c-ae4c-5b5793ea3d19.png)](https://volgograd.hh.ru/resume/c3ef944aff0bb6faf30039ed1f6c4e39766958)
