@@ -22,7 +22,7 @@
 ### My CV/ Мое резюме
 [![CV](https://user-images.githubusercontent.com/125453017/219130728-e8c568e3-e07f-472c-ae4c-5b5793ea3d19.png)](https://www.figma.com/file/ahnUTwEajculxPVeen1OvT/WEB-CV-(Curriculum-Vitae)-Resume-template-%22Migrant's-evening%22-(Community)?node-id=1%3A2&t=fMc0BLT6UZfWQzYK-1)
 
-[Ссылка на HH.RU](https://volgograd.hh.ru/resume/c3ef944aff0bb6faf30039ed1f6c4e39766958) и [Ссылка на CV (так же доступен по клику на иконку CV)](https://www.figma.com/file/ahnUTwEajculxPVeen1OvT/WEB-CV-(Curriculum-Vitae)-Resume-template-%22Migrant's-evening%22-(Community)?node-id=1%3A2&t=fMc0BLT6UZfWQzYK-1)
+[Ссылка на HH.RU](https://volgograd.hh.ru/applicant/resumes/view?resume=c3ef944aff0bb6faf30039ed1f6c4e39766958) и [Ссылка на CV (так же доступен по клику на иконку CV)](https://www.figma.com/file/ahnUTwEajculxPVeen1OvT/WEB-CV-(Curriculum-Vitae)-Resume-template-%22Migrant's-evening%22-(Community)?node-id=1%3A2&t=fMc0BLT6UZfWQzYK-1)
 
 ### Language and Tools
 ![JIRA](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=jira&logoColor=136be1)
